@@ -1,14 +1,25 @@
-# 👋 Hi, 我是@TTQWNTian~
-👀 我对Godot、Web、绘画等等感兴趣!   
+# 👋 你好，我是 Tian（@TTQWNTian）
 
-🌱 目前正在学习Godot和JavaScript...   
+---
 
-📫 可以使用邮箱 TTQWNTian@qq.com 或  TTQWNTian@outlook.com 联系到我。   
+### 👀 兴趣
+写代码、Web、绘画等
 
-😄 平时使用的昵称: Tian   
+### 🎯 正在学习
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-🐠 目前正在制作Dvnge视觉小说引擎!    
+### ✏️ 擅长这些
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🤓 擅长使用HTML和CSS写好看的UI   
+### 🐠 主要项目
+目前正在制作 **Dvnge** 视觉小说引擎！
 
-🔗 这是我的个人网站：[https://tian.html-5.me](https://tian.html-5.me)   
+---
+
+## 📫 联系方式
+**常用昵称**：Tian   
+**邮箱**：TTQWNTian@qq.com | TTQWNTian@outlook.com  
+**个人网站**：[https://tian.html-5.me](https://tian.html-5.me)
