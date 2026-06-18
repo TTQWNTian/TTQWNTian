@@ -1,7 +1,7 @@
 # 👋 你好，我是 Tian（@TTQWNTian）
 
 ### 👀 兴趣
-写代码、Web、绘画等
+写代码、花切、绘画等
 
 ### 🛠️ 技术栈
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,4 +20,4 @@
 ## 📫 联系方式
 **常用昵称**：Tian   
 **邮箱**：tian@ttqwn.top | TTQWNTian@outlook.com  
-**个人网站**：[https://tian.html-5.me](https://tian.html-5.me)
+**个人网站**：[https://ttqwntian.top](https://ttqwntian.top)
